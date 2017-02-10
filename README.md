@@ -1,6 +1,6 @@
-# _{**Xing Li's Portfolio**}_
+# _**Xing Li's Portfolio**_
 
-#### _{First independent project and first Xing's Portfolio forever}, {02/10/2017}_
+#### _First independent project and first Xing's Portfolio forever}, {02/10/2017_
 
 #### _{By Xing Li}_
 

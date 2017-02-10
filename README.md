@@ -19,6 +19,6 @@ _As a noob in Tec industry, I also need a personal Portfolio for future use. It 
 [click here](https://github.com/msuli1120/portfolio.git) to check out my portfolio
 
 ### License
-*{This application is licensed under Xing Li's name}*
-copyright (c) 2017 **_{Xing Li}_**
+*This application is licensed under Xing Li's name*
+copyright (c) 2017 **_Xing Li_**
 # portfolio
